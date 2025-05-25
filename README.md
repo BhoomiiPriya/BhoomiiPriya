@@ -2,9 +2,9 @@ Welcome to my GitHub Profile
 
 Hi, I’m Bhoomi Priya.
 
--I'm currently pursuing my **Master’s in Artificial Intelligence and Data Science** from **IIIT Kota**. Passionate about applying intelligent systems to solve real-world problems, I’m constantly exploring new technologies and deepening my understanding of AI and Data Science.
+-I'm currently pursuing my **Master’s in Artificial Intelligence and Data Science** from **IIIT Kota**. 
 
--  I’m interested in **Machine LearningL/Deep Learning** and love to read about recent advancements in ML algorithms
+-  I’m interested in **Machine Learning/Deep Learning** and love to read about recent advancements in ML algorithms
 -  I’m currently learning about **Training LLMs** and **Reinforcement Learning**.
 - 📫 You can reach me on 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/bhoomi-priya/))
